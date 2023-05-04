@@ -1,0 +1,67 @@
+.footer{
+    justify-content: center;
+    background-color: #c9e265;
+    padding: 90px;
+    margin-top: 180px;
+    
+}
+
+
+.contatos{
+    max-width: 75%;
+    position: relative;
+    align-items: center;
+    left: 200px;
+    right: 200px;
+    top: 15px;
+    bottom: 15px;
+}
+
+.email{
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    width: 31.8%;
+    padding: 24px;
+    margin: 0 48px;
+    margin-bottom: 16px;
+}
+.contato{
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    width: 31.8%;
+    padding: 25px;
+    margin: 0px 48px;
+    
+}
+
+.doacao{
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    width: 33.8%;
+    padding: 16px;
+    padding-top: 40px;
+    margin: 0 48px;
+    position: relative;
+    top: 2px;
+    
+}
+
+.info{
+    display: inline-block;
+    background-color: white;
+    border-radius: 10px;
+    width: 31.8%;
+    padding: 26px;
+    margin: 0 48px;
+    margin-bottom: 16px;
+    position: relative;
+    bottom: 8px;
+    right: 6px;
+}
+
+.footer img {
+    max-width: 25px;
+}

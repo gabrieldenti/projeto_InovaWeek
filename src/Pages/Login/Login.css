@@ -1,0 +1,14 @@
+
+.Hidden{
+    display: none;
+}
+
+.Aviso{
+    background-color: red;
+    padding: 16px;
+}
+
+.Sucesso{
+    background-color: rgb(44, 182, 44);
+    padding: 16px;
+}

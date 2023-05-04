@@ -1,0 +1,9 @@
+.mapa {
+    
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}

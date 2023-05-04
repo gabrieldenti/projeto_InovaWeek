@@ -1,0 +1,46 @@
+.header{
+    background-color: #c9e265;
+    text-align: center;
+    padding: 65px;
+    margin-bottom: 60px;
+    color: white;
+}
+
+
+
+.header img {
+    max-width: 16%;
+    float: left;
+    position: relative;
+    bottom: 64px;
+}
+
+.header ul li{
+
+    float: right;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    list-style: none;
+    float: right;
+    margin: 15px 10px;
+    width: 120px;
+    position: relative;
+    right: -35px;
+    bottom: 50px;
+    padding: 15px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.280);
+    
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}

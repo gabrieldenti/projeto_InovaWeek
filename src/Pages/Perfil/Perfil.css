@@ -1,0 +1,32 @@
+.caesperfil{
+    border-radius: 20px;
+    justify-content: center;
+    margin: 80px 400px;
+    max-width: 100%;
+    background-color: #F2F2F2;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.08);
+    font-family: Arial, Helvetica, sans-serif
+}
+.caesperfil h3 {
+    font-size: 22px;
+}
+
+.caesperfil p {
+    font-size: 14px;
+}
+
+.caesperfil h1{
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+.caesperfil img{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    padding: auto;
+    margin: 5px 0px 5px 10px;
+    border: solid black;
+    border-radius: 60%;
+}

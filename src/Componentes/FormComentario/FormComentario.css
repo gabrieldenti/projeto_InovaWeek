@@ -1,0 +1,14 @@
+.comentario input{
+
+   
+    padding: 15px 15px 15px 15px;
+    margin: 0px 0px 0px 10px;
+    border: solid black;
+    background-color: #F2F2F2  ;
+    border-radius: 20px;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.08);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
